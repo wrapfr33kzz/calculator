@@ -1,0 +1,61 @@
+#headl{
+    background-color: rgb(93, 98, 186);
+    width: auto;
+    height: 54px;
+    margin-bottom: 18px;
+    color: white;
+    font-size: 27px;
+}
+#head-text{
+    margin-left: 559px;
+}
+.calc{
+    width: 400px;
+    height: 600px;
+    background-color: #2f877a;
+    margin-left: 454px;
+
+}
+#screen{
+    width: 312px;
+    height: 33px;
+    margin-top: 62px;
+    margin-left: 51px;
+
+}
+.btn{
+    margin-left: 49px;
+    width: 40px;
+    height: 34px;
+    margin-top: 30px;
+    background: bisque;
+}
+#sec-page{
+    background-color: #8c6c9e;
+    width: auto;
+    height: 156px;
+}
+#sub-data{
+    background:#adcde0 ;
+    width: auto;
+    height: 100px;
+    margin-left: 563px;
+    font-size: x-large;
+    font-style: oblique;
+}
+#logo1{
+      color: rgb(5, 55, 55);
+}
+#logo{
+    color: black;
+}
+#para1{
+    margin-left: 563px;
+    font-size: x-large;
+    font-style: oblique;
+}
+#para2{
+    margin-left: 563px;
+    font-size: x-large;
+    font-style: oblique;
+}
